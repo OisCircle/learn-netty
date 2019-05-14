@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ce3a645-e9cd-4f83-8491-4f5c5ad8433f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/learnNetty$FileServer.ic" NAME="FileServer Coverage Results" MODIFIED="1535808227213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>server.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ByteBufAllocator.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/ByteBufAllocator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#4240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PreferHeapByteBufAllocator.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/PreferHeapByteBufAllocator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractByteBufAllocator.java" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/AbstractByteBufAllocator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="150" column="29" lean-forward="true" selection-start-line="150" selection-start-column="29" selection-end-line="150" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReferenceCounted.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/util/ReferenceCounted.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#3136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WrappedByteBuf.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/WrappedByteBuf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1144">
+              <caret line="93" column="5" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#23003#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnreleasableByteBuf.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/UnreleasableByteBuf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>readSlice</find>
+      <find>readBytes</find>
+      <find>writeInt</find>
+      <find>ByteProcessor</find>
+      <find>indexOf</find>
+      <find>copy</find>
+      <find>Metrics</find>
+      <find>newDirectBuffer</find>
+      <find>newHeapBuffer</find>
+      <find>compositeHeapBuffer</find>
+      <find>compositeDirectBuffer</find>
+      <find>fire</find>
+      <find>addListener</find>
+      <find>fireChannelRead</find>
+      <find>attr</find>
+      <find>addFirst</find>
+      <find>schedule</find>
+      <find>Schedule</find>
+      <find>read</find>
+      <find>doBind</find>
+      <find>bind</find>
+      <find>read0</find>
+      <find>decora</find>
+      <find>allo</find>
+      <find>System.out</find>
+      <find>websocketPath</find>
+      <find>1</find>
+      <find>channelGroupMap</find>
+      <find>metrix</find>
+      <find>metric</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/handler/EchoClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/handler/EchoServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/handler/EchoServerOutHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/handler/FixedLengthFrameDecoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/codec/decoder/EchoByteToIntDecoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/client/EchoClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/server/HttpHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/server/EchoServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/http/HttpServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pattern/allocator/MyByteBufUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pattern/allocator/MyByteBufAllocator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pattern/allocator/MyAbstractByteBufAllocator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pattern/allocator/MyUnpooledByteBufAllocator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pattern/allocator/MyPooledByteBufAllocator.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/handler/EchoServerInHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/initializer/MyInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/http/FileInHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/http/FileOutHandler2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/initializer/FileInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/http/HttpHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/server/FileServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/WebSocketServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/WebSocketServerInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/service/MessageService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/service/RequestService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/http/FileOutHandler.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EchoByteToIntDecoderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ByteBufTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EchoServerInHandlerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/dto/Response.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/WebSocketServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/MyWebSocketChannelHander.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/NettyConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/MyWebSocketHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test/BootStrap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test/ChatBootStrap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test/ChatInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test/HttpHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test/UriParamResolver.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test/UriParamHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mengkang/dto/Response.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test/ChatHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test/ChatBootstrap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/allocator/MyAbstractByteBufAllocator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="learnNetty" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="learnNetty" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learnNetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnNetty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnNetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnNetty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnNetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnNetty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnNetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnNetty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnNetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnNetty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnNetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="learnNetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="learnNetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.28.Final.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnNetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.28.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnNetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.28.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="buffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../elecon_platform_repository" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHubRepositories\learnNetty\src\main\java" />
+      <recent name="C:\GitHubRepositories\learnNetty\src\main\resources" />
+      <recent name="C:\GitHubRepositories\learnNetty\src\main\java\websocket" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHubRepositories\learnNetty\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ChatBootstrap">
+    <configuration name="ChatBootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="websocket.test.ChatBootstrap" />
+      <module name="learnNetty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="websocket.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FileServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.FileServer" />
+      <module name="learnNetty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="websocket.Main" />
+      <module name="learnNetty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="websocket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="WebSocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="websocket.WebSocketServer" />
+      <module name="learnNetty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="websocket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ByteBufTest.byteOperationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learnNetty" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ByteBufTest" />
+      <option name="METHOD_NAME" value="byteOperationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ByteBufTest.byteOperationTest" />
+      <item itemvalue="Application.FileServer" />
+      <item itemvalue="Application.WebSocketServer" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ChatBootstrap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChatBootstrap" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.WebSocketServer" />
+        <item itemvalue="Application.FileServer" />
+        <item itemvalue="JUnit.ByteBufTest.byteOperationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ce3a645-e9cd-4f83-8491-4f5c5ad8433f" name="Default" comment="" />
+      <created>1534076867958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534076867958</updated>
+      <workItem from="1534076869369" duration="5648000" />
+      <workItem from="1534126340707" duration="995000" />
+      <workItem from="1534232111540" duration="711000" />
+      <workItem from="1534239477968" duration="9952000" />
+      <workItem from="1534290512880" duration="3094000" />
+      <workItem from="1534299820820" duration="1311000" />
+      <workItem from="1534336550125" duration="798000" />
+      <workItem from="1534388345084" duration="2759000" />
+      <workItem from="1534392164693" duration="10687000" />
+      <workItem from="1534426997741" duration="604000" />
+      <workItem from="1534461145928" duration="1145000" />
+      <workItem from="1534476649323" duration="5163000" />
+      <workItem from="1534580613532" duration="2704000" />
+      <workItem from="1534591326798" duration="8874000" />
+      <workItem from="1534640869579" duration="26037000" />
+      <workItem from="1534725432782" duration="15543000" />
+      <workItem from="1534813310710" duration="14396000" />
+      <workItem from="1535010604520" duration="2564000" />
+      <workItem from="1535021984568" duration="6285000" />
+      <workItem from="1535071848469" duration="14892000" />
+      <workItem from="1535249129466" duration="473000" />
+      <workItem from="1535718097206" duration="2388000" />
+      <workItem from="1535770803463" duration="619000" />
+      <workItem from="1535772484285" duration="3402000" />
+      <workItem from="1535782205236" duration="13000" />
+      <workItem from="1535782222024" duration="1710000" />
+      <workItem from="1535784187929" duration="16209000" />
+      <workItem from="1535811574876" duration="561000" />
+      <workItem from="1535896763558" duration="643000" />
+      <workItem from="1535941187562" duration="7819000" />
+      <workItem from="1536014385759" duration="242000" />
+      <workItem from="1536014900321" duration="830000" />
+      <workItem from="1536362060716" duration="8401000" />
+      <workItem from="1536455374992" duration="10787000" />
+      <workItem from="1536477992949" duration="1440000" />
+      <workItem from="1536452430082" duration="592000" />
+      <workItem from="1536485797942" duration="991000" />
+      <workItem from="1536639036292" duration="1239000" />
+      <workItem from="1536652844199" duration="613000" />
+      <workItem from="1536654231520" duration="12000" />
+      <workItem from="1537252950701" duration="7420000" />
+      <workItem from="1537262174465" duration="603000" />
+      <workItem from="1537269905887" duration="8437000" />
+      <workItem from="1537280404861" duration="578000" />
+      <workItem from="1537312008188" duration="743000" />
+      <workItem from="1537340293721" duration="6000" />
+      <workItem from="1538298226627" duration="123000" />
+      <workItem from="1540693846872" duration="2257000" />
+      <workItem from="1540710422859" duration="1621000" />
+      <workItem from="1540784376048" duration="485000" />
+      <workItem from="1541245895118" duration="4264000" />
+      <workItem from="1541332704050" duration="17000" />
+      <workItem from="1543027080346" duration="2003000" />
+      <workItem from="1543035826447" duration="755000" />
+      <workItem from="1543060193775" duration="1414000" />
+      <workItem from="1543331638140" duration="21781000" />
+      <workItem from="1543410450883" duration="3789000" />
+      <workItem from="1543417243541" duration="1205000" />
+      <workItem from="1543991614759" duration="1742000" />
+      <workItem from="1552440801070" duration="3428000" />
+      <workItem from="1552711231257" duration="1038000" />
+      <workItem from="1553823587980" duration="1041000" />
+      <workItem from="1556528663166" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ByteBufTest_byteOperationTest - 2018.08.21 at 12h 00m 36s.xml">
+      <configuration name="ByteBufTest.byteOperationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ByteBufTest_byteOperationTest - 2018.08.21 at 12h 00m 47s.xml">
+      <configuration name="ByteBufTest.byteOperationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ByteBufTest_byteOperationTest - 2018.08.21 at 12h 00m 53s.xml">
+      <configuration name="ByteBufTest.byteOperationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ByteBufTest_byteOperationTest - 2018.08.21 at 12h 01m 00s.xml">
+      <configuration name="ByteBufTest.byteOperationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ByteBufTest_byteOperationTest - 2018.08.21 at 12h 01m 15s.xml">
+      <configuration name="ByteBufTest.byteOperationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ByteBufTest_byteOperationTest - 2018.08.21 at 12h 01m 28s.xml">
+      <configuration name="ByteBufTest.byteOperationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ByteBufTest_byteOperationTest - 2018.08.21 at 12h 01m 34s.xml">
+      <configuration name="ByteBufTest.byteOperationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ByteBufTest_byteOperationTest - 2018.08.21 at 12h 01m 40s.xml">
+      <configuration name="ByteBufTest.byteOperationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ByteBufTest_byteOperationTest - 2018.08.21 at 12h 01m 47s.xml">
+      <configuration name="ByteBufTest.byteOperationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ByteBufTest_byteOperationTest - 2018.08.23 at 15h 53m 03s.xml">
+      <configuration name="ByteBufTest.byteOperationTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="258500000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3296875" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35827664" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49546486" visible="true" weight="0.22395833" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.24947916" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.50453514" side_tool="true" visible="true" weight="0.22395833" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.54445666" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.31632653" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879817" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32930845" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="1.0" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32930845" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/http/FileOutHandler.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="47" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((HeapByteBuffer)((InstrumentedUnpooledUnsafeHeapByteBuf)buf).tmpNioBuf).hb" custom="java.nio.HeapByteBuffer,io.netty.buffer.UnpooledByteBufAllocator.InstrumentedUnpooledUnsafeHeapByteBuf" />
+        <watch expression="((HeapByteBuffer)((InstrumentedUnpooledUnsafeHeapByteBuf)((UnpooledSlicedByteBuf)buf5).buffer).tmpNioBuf).address" custom="java.nio.HeapByteBuffer,io.netty.buffer.UnpooledSlicedByteBuf,io.netty.buffer.UnpooledByteBufAllocator.InstrumentedUnpooledUnsafeHeapByteBuf" />
+        <watch expression="buf3" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/WebSocketServerHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/client/EchoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/stream/ChunkedWriteHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="59" column="49" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="251" column="25" selection-start-line="251" selection-start-column="25" selection-end-line="251" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="24" column="68" lean-forward="true" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/http/websocketx/WebSocketFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/http/websocketx/TextWebSocketFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="117" column="30" selection-start-line="117" selection-start-column="30" selection-end-line="117" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/group/ChannelGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="179" column="23" selection-start-line="179" selection-start-column="23" selection-end-line="179" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/http/FileOutHandler2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/handler/EchoClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/handler/EchoServerInHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/handler/EchoServerOutHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/handler/FixedLengthFrameDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/http/FileOutHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/MyWebSocketChannelHander.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/NettyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/MyWebSocketHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="87" column="70" selection-start-line="87" selection-start-column="70" selection-end-line="87" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/http/websocketx/WebSocketServerProtocolHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="106" column="62" selection-start-line="106" selection-start-column="49" selection-end-line="106" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/http/FullHttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mengkang/WebSocketServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mengkang/WebSocketServerHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/test/ChatBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/test/ChatInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/test/UriParamHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/client.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/allocator/MyByteBufAllocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/allocator/MyAbstractByteBufAllocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/allocator/MyByteBufUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/allocator/MyPooledByteBufAllocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/allocator/MyUnpooledByteBufAllocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="98" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/test/ChatHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/buffer/AbstractByteBufAllocator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="159" column="31" selection-start-line="159" selection-start-column="31" selection-end-line="159" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/UnpooledDirectByteBuf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/ByteBufAllocatorMetricProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/PooledByteBufAllocatorMetric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-880">
+          <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/ByteBufAllocatorMetric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="282" column="23" lean-forward="true" selection-start-line="282" selection-start-column="23" selection-end-line="282" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/PooledByteBufAllocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="77" column="74" lean-forward="true" selection-start-line="77" selection-start-column="74" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/WrappedByteBuf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="93" column="5" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#23003#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/io.netty.buffer.ByteBufAllocator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>io.netty.buffer.ByteBufAllocator</OriginalElement>
+          <nodes>
+            <node x="" y="">io.netty.buffer.ByteBufAllocator</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="92.0" y="18.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/io.netty.buffer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>io.netty.buffer</OriginalElement>
+          <nodes>
+            <node x="1362.7500000000005" y="536.0">io.netty.buffer.AdvancedLeakAwareCompositeByteBuf</node>
+            <node x="1232.7500000000005" y="278.0">io.netty.buffer.ReadOnlyByteBuf</node>
+            <node x="267.75" y="703.0">io.netty.buffer.ByteBufAllocatorMetricProvider</node>
+            <node x="33.75" y="617.0">io.netty.buffer.ByteBufAllocator</node>
+            <node x="4480.75" y="172.0">io.netty.buffer.UnreleasableByteBuf</node>
+            <node x="1221.75" y="703.0">io.netty.buffer.PoolChunkList</node>
+            <node x="1454.75" y="617.0">io.netty.buffer.PoolSubpageMetric</node>
+            <node x="1404.7500000000005" y="364.0">io.netty.buffer.WrappedCompositeByteBuf</node>
+            <node x="1478.75" y="703.0">io.netty.buffer.PoolSubpage</node>
+            <node x="199.71119791666706" y="86.0">io.netty.buffer.SwappedByteBuf</node>
+            <node x="959.75" y="617.0">io.netty.buffer.ByteBufHolder</node>
+            <node x="3797.75" y="617.0">io.netty.buffer.Unpooled</node>
+            <node x="1713.7500000000005" y="278.0">io.netty.buffer.ReadOnlyByteBufferBuf</node>
+            <node x="2684.75" y="617.0">io.netty.buffer.UnsafeByteBufUtil</node>
+            <node x="3235.7500000000005" y="364.0">io.netty.buffer.UnpooledUnsafeHeapByteBuf</node>
+            <node x="1017.7500000000005" y="278.0">io.netty.buffer.DuplicatedByteBuf</node>
+            <node x="3648.7500000000005" y="364.0">io.netty.buffer.PooledDirectByteBuf</node>
+            <node x="144.21119791666706" y="172.0">io.netty.buffer.AbstractUnsafeSwappedByteBuf</node>
+            <node x="3386.75" y="617.0">io.netty.buffer.HeapByteBufUtil</node>
+            <node x="2145.9062500000005" y="86.0">io.netty.buffer.AbstractByteBuf</node>
+            <node x="3153.75" y="617.0">io.netty.buffer.ByteBufProcessor</node>
+            <node x="933.75" y="703.0">io.netty.buffer.DefaultByteBufHolder</node>
+            <node x="1962.75" y="703.0">io.netty.buffer.PoolArena</node>
+            <node x="2228.211197916667" y="278.0">io.netty.buffer.UnpooledUnsafeDirectByteBuf</node>
+            <node x="0.0" y="278.0">io.netty.buffer.UnsafeDirectSwappedByteBuf</node>
+            <node x="2736.7500000000005" y="364.0">io.netty.buffer.PooledSlicedByteBuf</node>
+            <node x="2.75" y="703.0">io.netty.buffer.AbstractByteBufAllocator</node>
+            <node x="311.25" y="789.0">io.netty.buffer.PooledByteBufAllocator</node>
+            <node x="2366.7500000000005" y="364.0">io.netty.buffer.WrappedUnpooledUnsafeDirectByteBuf</node>
+            <node x="2168.75" y="617.0">io.netty.buffer.ByteBufOutputStream</node>
+            <node x="1938.75" y="617.0">io.netty.buffer.PoolArenaMetric</node>
+            <node x="1987.7500000000005" y="364.0">io.netty.buffer.UnpooledUnsafeNoCleanerDirectByteBuf</node>
+            <node x="981.2500000000005" y="364.0">io.netty.buffer.UnpooledDuplicatedByteBuf</node>
+            <node x="1438.7500000000005" y="278.0">io.netty.buffer.CompositeByteBuf</node>
+            <node x="2919.75" y="617.0">io.netty.buffer.PoolThreadCache</node>
+            <node x="2968.7500000000005" y="364.0">io.netty.buffer.PooledDuplicatedByteBuf</node>
+            <node x="3972.2500000000005" y="450.0">io.netty.buffer.PooledUnsafeHeapByteBuf</node>
+            <node x="1730.75" y="703.0">io.netty.buffer.PoolChunk</node>
+            <node x="1706.75" y="617.0">io.netty.buffer.PoolChunkMetric</node>
+            <node x="961.7945312500005" y="172.0">io.netty.buffer.AbstractDerivedByteBuf</node>
+            <node x="3508.2500000000005" y="278.0">io.netty.buffer.UnpooledDirectByteBuf</node>
+            <node x="2986.8750000000005" y="172.0">io.netty.buffer.AbstractReferenceCountedByteBuf</node>
+            <node x="3260.2500000000005" y="278.0">io.netty.buffer.UnpooledHeapByteBuf</node>
+            <node x="0.0" y="789.0">io.netty.buffer.UnpooledByteBufAllocator</node>
+            <node x="728.2500000000005" y="364.0">io.netty.buffer.UnpooledSlicedByteBuf</node>
+            <node x="4204.25" y="278.0">io.netty.buffer.AdvancedLeakAwareByteBuf</node>
+            <node x="3761.2500000000005" y="278.0">io.netty.buffer.FixedCompositeByteBuf</node>
+            <node x="605.75" y="703.0">io.netty.buffer.PooledByteBufAllocatorMetric</node>
+            <node x="4223.75" y="364.0">io.netty.buffer.PooledUnsafeDirectByteBuf</node>
+            <node x="2791.7500000000005" y="0.0">io.netty.buffer.ByteBuf</node>
+            <node x="1374.2500000000005" y="450.0">io.netty.buffer.SimpleLeakAwareCompositeByteBuf</node>
+            <node x="548.2500000000005" y="364.0">io.netty.buffer.SlicedByteBuf</node>
+            <node x="4215.75" y="172.0">io.netty.buffer.SimpleLeakAwareByteBuf</node>
+            <node x="2433.75" y="617.0">io.netty.buffer.ByteBufInputStream</node>
+            <node x="297.0" y="278.0">io.netty.buffer.UnsafeHeapSwappedByteBuf</node>
+            <node x="4016.2500000000005" y="278.0">io.netty.buffer.PooledByteBuf</node>
+            <node x="589.0000000000005" y="278.0">io.netty.buffer.AbstractUnpooledSlicedByteBuf</node>
+            <node x="4370.0" y="86.0">io.netty.buffer.WrappedByteBuf</node>
+            <node x="631.75" y="617.0">io.netty.buffer.ByteBufAllocatorMetric</node>
+            <node x="2824.0000000000005" y="278.0">io.netty.buffer.AbstractPooledDerivedByteBuf</node>
+            <node x="3611.75" y="617.0">io.netty.buffer.ByteBufUtil</node>
+            <node x="1197.75" y="617.0">io.netty.buffer.PoolChunkListMetric</node>
+            <node x="4574.0" y="86.0">io.netty.buffer.EmptyByteBuf</node>
+            <node x="3996.7500000000005" y="364.0">io.netty.buffer.PooledHeapByteBuf</node>
+            <node x="1688.7500000000005" y="364.0">io.netty.buffer.ReadOnlyUnsafeDirectByteBuf</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="io.netty.buffer.ReadOnlyUnsafeDirectByteBuf" target="io.netty.buffer.ReadOnlyByteBufferBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.UnsafeHeapSwappedByteBuf" target="io.netty.buffer.AbstractUnsafeSwappedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="433.0" y="258.0" />
+              <point x="365.46119791666706" y="258.0" />
+              <point x="73.75" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.AdvancedLeakAwareCompositeByteBuf" target="io.netty.buffer.SimpleLeakAwareCompositeByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.DefaultByteBufHolder" target="io.netty.buffer.ByteBufHolder">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.UnpooledHeapByteBuf" target="io.netty.buffer.AbstractReferenceCountedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="3374.2500000000005" y="258.0" />
+              <point x="3164.0625000000005" y="258.0" />
+              <point x="19.6875" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.AdvancedLeakAwareByteBuf" target="io.netty.buffer.SimpleLeakAwareByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.AbstractPooledDerivedByteBuf" target="io.netty.buffer.AbstractReferenceCountedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="2967.5000000000005" y="258.0" />
+              <point x="3124.6875000000005" y="258.0" />
+              <point x="-19.6875" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PooledDuplicatedByteBuf" target="io.netty.buffer.AbstractPooledDerivedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="3092.2500000000005" y="339.0" />
+              <point x="3039.2500000000005" y="339.0" />
+              <point x="71.75" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PoolSubpage" target="io.netty.buffer.PoolSubpageMetric">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PooledSlicedByteBuf" target="io.netty.buffer.AbstractPooledDerivedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="2842.7500000000005" y="339.0" />
+              <point x="2895.7500000000005" y="339.0" />
+              <point x="-71.75" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.WrappedCompositeByteBuf" target="io.netty.buffer.CompositeByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.UnpooledByteBufAllocator" target="io.netty.buffer.AbstractByteBufAllocator">
+              <point x="-64.0" y="-18.0" />
+              <point x="-61.25" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.SlicedByteBuf" target="io.netty.buffer.AbstractUnpooledSlicedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="628.2500000000005" y="339.0" />
+              <point x="662.7500000000005" y="339.0" />
+              <point x="-73.75" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PooledByteBufAllocator" target="io.netty.buffer.ByteBufAllocatorMetricProvider">
+              <point x="58.75" y="-18.0" />
+              <point x="73.25" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.UnpooledSlicedByteBuf" target="io.netty.buffer.AbstractUnpooledSlicedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="844.7500000000005" y="339.0" />
+              <point x="810.2500000000005" y="339.0" />
+              <point x="73.75" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.UnpooledUnsafeDirectByteBuf" target="io.netty.buffer.AbstractReferenceCountedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="2369.211197916667" y="248.0" />
+              <point x="3085.3125000000005" y="248.0" />
+              <point x="-59.0625" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PooledByteBuf" target="io.netty.buffer.AbstractReferenceCountedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="4100.25" y="228.0" />
+              <point x="3282.1875000000005" y="228.0" />
+              <point x="137.8125" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.SimpleLeakAwareByteBuf" target="io.netty.buffer.WrappedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="4338.25" y="147.0" />
+              <point x="4416.0" y="147.0" />
+              <point x="-46.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PoolChunk" target="io.netty.buffer.PoolChunkMetric">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.UnreleasableByteBuf" target="io.netty.buffer.WrappedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="4585.75" y="147.0" />
+              <point x="4508.0" y="147.0" />
+              <point x="46.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PoolChunkList" target="io.netty.buffer.PoolChunkListMetric">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PooledDirectByteBuf" target="io.netty.buffer.PooledByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="3754.7500000000005" y="339.0" />
+              <point x="4044.2500000000005" y="339.0" />
+              <point x="-56.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.AbstractByteBuf" target="io.netty.buffer.ByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="2234.9062500000005" y="66.0" />
+              <point x="2835.2500000000005" y="66.0" />
+              <point x="-14.5" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PooledUnsafeHeapByteBuf" target="io.netty.buffer.PooledHeapByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.UnpooledUnsafeNoCleanerDirectByteBuf" target="io.netty.buffer.UnpooledUnsafeDirectByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="2167.2500000000005" y="339.0" />
+              <point x="2298.711197916667" y="339.0" />
+              <point x="-70.5" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.UnpooledUnsafeHeapByteBuf" target="io.netty.buffer.UnpooledHeapByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.DuplicatedByteBuf" target="io.netty.buffer.AbstractDerivedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="1115.2500000000005" y="258.0" />
+              <point x="1079.2945312500005" y="258.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PooledByteBufAllocator" target="io.netty.buffer.AbstractByteBufAllocator">
+              <point x="-58.75" y="-18.0" />
+              <point x="370.0" y="759.0" />
+              <point x="186.5" y="759.0" />
+              <point x="61.25" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.FixedCompositeByteBuf" target="io.netty.buffer.AbstractReferenceCountedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="3878.7500000000005" y="238.0" />
+              <point x="3242.8125000000005" y="238.0" />
+              <point x="98.4375" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.AbstractDerivedByteBuf" target="io.netty.buffer.AbstractByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="1079.2945312500005" y="147.0" />
+              <point x="2190.4062500000005" y="147.0" />
+              <point x="-44.5" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.WrappedUnpooledUnsafeDirectByteBuf" target="io.netty.buffer.UnpooledUnsafeDirectByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="2541.7500000000005" y="339.0" />
+              <point x="2439.711197916667" y="339.0" />
+              <point x="70.5" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.CompositeByteBuf" target="io.netty.buffer.AbstractReferenceCountedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="1536.7500000000005" y="228.0" />
+              <point x="3006.5625000000005" y="228.0" />
+              <point x="-137.8125" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.WrappedByteBuf" target="io.netty.buffer.ByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="4462.0" y="66.0" />
+              <point x="2864.2500000000005" y="66.0" />
+              <point x="14.5" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.UnpooledDirectByteBuf" target="io.netty.buffer.AbstractReferenceCountedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="3624.7500000000005" y="248.0" />
+              <point x="3203.4375000000005" y="248.0" />
+              <point x="59.0625" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.AbstractReferenceCountedByteBuf" target="io.netty.buffer.AbstractByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="3144.3750000000005" y="147.0" />
+              <point x="2279.4062500000005" y="147.0" />
+              <point x="44.5" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.UnpooledByteBufAllocator" target="io.netty.buffer.ByteBufAllocatorMetricProvider">
+              <point x="64.0" y="-18.0" />
+              <point x="192.0" y="769.0" />
+              <point x="341.0" y="769.0" />
+              <point x="-73.25" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.UnpooledDuplicatedByteBuf" target="io.netty.buffer.DuplicatedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.AbstractUnsafeSwappedByteBuf" target="io.netty.buffer.SwappedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PooledByteBufAllocatorMetric" target="io.netty.buffer.ByteBufAllocatorMetric">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.ReadOnlyByteBuf" target="io.netty.buffer.AbstractDerivedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="1325.7500000000005" y="258.0" />
+              <point x="1157.6278645833338" y="258.0" />
+              <point x="78.33333333333326" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.AbstractUnpooledSlicedByteBuf" target="io.netty.buffer.AbstractDerivedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="736.5000000000005" y="258.0" />
+              <point x="1000.9611979166673" y="258.0" />
+              <point x="-78.33333333333326" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PooledHeapByteBuf" target="io.netty.buffer.PooledByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.SwappedByteBuf" target="io.netty.buffer.ByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="291.71119791666706" y="56.0" />
+              <point x="2806.2500000000005" y="56.0" />
+              <point x="-43.5" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.SimpleLeakAwareCompositeByteBuf" target="io.netty.buffer.WrappedCompositeByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.UnsafeDirectSwappedByteBuf" target="io.netty.buffer.AbstractUnsafeSwappedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="138.5" y="258.0" />
+              <point x="217.96119791666706" y="258.0" />
+              <point x="-73.75" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.AbstractByteBufAllocator" target="io.netty.buffer.ByteBufAllocator">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.EmptyByteBuf" target="io.netty.buffer.ByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="4655.0" y="56.0" />
+              <point x="2893.2500000000005" y="56.0" />
+              <point x="43.5" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PoolArena" target="io.netty.buffer.PoolArenaMetric">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.PooledUnsafeDirectByteBuf" target="io.netty.buffer.PooledByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="4354.25" y="339.0" />
+              <point x="4156.25" y="339.0" />
+              <point x="56.0" y="18.0" />
+            </edge>
+            <edge source="io.netty.buffer.ReadOnlyByteBufferBuf" target="io.netty.buffer.AbstractReferenceCountedByteBuf">
+              <point x="0.0" y="-18.0" />
+              <point x="1828.2500000000005" y="238.0" />
+              <point x="3045.9375000000005" y="238.0" />
+              <point x="-98.4375" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.1125735912531542" x="4413.0" y="-11.0" />
+          <SelectedNodes>
+            <node>io.netty.buffer.ReadOnlyUnsafeDirectByteBuf</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/PreferHeapByteBufAllocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/UnpooledByteBufAllocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/util/ReferenceCounted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#3136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/ByteBuf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3181">
+          <caret line="248" column="48" lean-forward="true" selection-start-line="248" selection-start-column="48" selection-end-line="248" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/CompositeByteBuf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#0#66542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/UnreleasableByteBuf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/ByteBufAllocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#4240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/buffer/AbstractByteBufAllocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="150" column="29" lean-forward="true" selection-start-line="150" selection-start-column="29" selection-end-line="150" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>learnNetty</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
